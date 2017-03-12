@@ -1,5 +1,5 @@
 'use strict';
-var APP_ID = 'amzn1.echo-sdk-ams.app.36ca5442-e6bf-43e3-9968-6377287aeebb';
+var APP_ID = 'amzn1.ask.skill.e2355886-98a9-4d48-b32c-3b088a42dab4';
 var SPEECH_OUTPUT = 'Hello World!';
 var AlexaSkill = require('./AlexaSkill');
 var GreeterService = function() {
